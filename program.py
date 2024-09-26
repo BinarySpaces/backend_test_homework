@@ -1,1 +1,2 @@
-print('Я домашка'
+print('Я домашка')
+print('another_something')
